@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../alibaba/alibaba.iml" filepath="$PROJECT_DIR$/../alibaba/alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ctrip/ctrip.iml" filepath="$PROJECT_DIR$/../ctrip/ctrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huawei.iml" filepath="$PROJECT_DIR$/huawei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../io/io.iml" filepath="$PROJECT_DIR$/../io/io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../meituan/meituan.iml" filepath="$PROJECT_DIR$/../meituan/meituan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nonghang/nonghang.iml" filepath="$PROJECT_DIR$/../nonghang/nonghang.iml" />
+    </modules>
+  </component>
+</project>
