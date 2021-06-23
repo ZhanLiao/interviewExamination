@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/../io/io.iml" filepath="$PROJECT_DIR$/../io/io.iml" />
       <module fileurl="file://$PROJECT_DIR$/../meituan/meituan.iml" filepath="$PROJECT_DIR$/../meituan/meituan.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nonghang/nonghang.iml" filepath="$PROJECT_DIR$/../nonghang/nonghang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vivo/vivo.iml" filepath="$PROJECT_DIR$/../vivo/vivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zet/zet.iml" filepath="$PROJECT_DIR$/../zet/zet.iml" />
     </modules>
   </component>
 </project>

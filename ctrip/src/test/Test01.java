@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  * @Author: ZhanLiao
- * @Description:
+ * @Description: leetCode1049题
  * @Date: 2021/6/10 18:42
  * @Version: 1.0
  */
