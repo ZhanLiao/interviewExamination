@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Shopee/Shopee.iml" filepath="$PROJECT_DIR$/Shopee/Shopee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alibaba/alibaba.iml" filepath="$PROJECT_DIR$/alibaba/alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctrip/ctrip.iml" filepath="$PROJECT_DIR$/ctrip/ctrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huawei/huawei.iml" filepath="$PROJECT_DIR$/huawei/huawei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/interviewExamination.iml" filepath="$PROJECT_DIR$/.idea/interviewExamination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io/io.iml" filepath="$PROJECT_DIR$/io/io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meituan/meituan.iml" filepath="$PROJECT_DIR$/meituan/meituan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nonghang/nonghang.iml" filepath="$PROJECT_DIR$/nonghang/nonghang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threeone/threeone.iml" filepath="$PROJECT_DIR$/threeone/threeone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vivo/vivo.iml" filepath="$PROJECT_DIR$/vivo/vivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webank/webank.iml" filepath="$PROJECT_DIR$/webank/webank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zet/zet.iml" filepath="$PROJECT_DIR$/zet/zet.iml" />
+    </modules>
+  </component>
+</project>
